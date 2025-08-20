@@ -35,3 +35,10 @@ This tool is designed by teachers, for teachers. Contributions welcome:
 - Bug fixes and improvements
 
 Open an issue or submit a PR!
+
+## 🛠️ How to Use
+
+```bash
+git clone https://github.com/princlii/fle-ai-generator.git
+cd fle-ai-generator
+python3 fle_generator.py  # See example prompts

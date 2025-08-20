@@ -25,3 +25,12 @@ prompt = generator.generate_custom_prompt(
 )
 
 # Copy prompt to ChatGPT/Claude → Get full French lesson plan!
+
+## Contributing
+
+This tool is designed by teachers, for teachers. Contributions welcome:
+- New template types
+- Language-specific adaptations  
+- Bug fixes and improvements
+
+Open an issue or submit a PR!

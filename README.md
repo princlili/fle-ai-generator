@@ -25,6 +25,7 @@ prompt = generator.generate_custom_prompt(
 )
 
 # Copy prompt to ChatGPT/Claude → Get full French lesson plan!
+```
 
 ## Contributing
 
